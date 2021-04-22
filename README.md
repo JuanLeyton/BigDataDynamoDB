@@ -1,1 +1,1 @@
-# BigDataDynamoDB
+# Proyecto Big Data con DynamoDB
