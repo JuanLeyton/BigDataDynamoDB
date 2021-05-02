@@ -58,16 +58,10 @@ build-iPhoneSimulator/
 Configuración.txt
 
 /.vscode/
-backEnd/lib/
-backEnd/log/
-backEnd/public/
-backEnd/test/
-backEnd/tmp/
-backEnd/vendor/
-frontEnd/lib/
-frontEnd/log/
-frontEnd/public/
-frontEnd/test/
-frontEnd/tmp/
-frontEnd/vendor/
-frontEnd/node_modules/
+lib/
+log/
+public/
+test/
+tmp/
+vendor/
+node_modules/
